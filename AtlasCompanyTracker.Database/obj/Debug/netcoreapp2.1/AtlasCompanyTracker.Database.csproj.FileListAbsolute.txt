@@ -1,0 +1,17 @@
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\bin\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.deps.json
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\bin\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.runtimeconfig.json
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\bin\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.runtimeconfig.dev.json
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\bin\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.dll
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\bin\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.pdb
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\bin\Debug\netcoreapp2.1\AtlasCompanyTracker.Models.dll
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\bin\Debug\netcoreapp2.1\AtlasCompanyTracker.Models.pdb
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\obj\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.csprojAssemblyReference.cache
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\obj\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.csproj.CoreCompileInputs.cache
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\obj\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.RazorAssemblyInfo.cache
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\obj\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.RazorAssemblyInfo.cs
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\obj\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.AssemblyInfoInputs.cache
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\obj\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.AssemblyInfo.cs
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\obj\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.RazorTargetAssemblyInfo.cache
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\obj\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.csproj.CopyComplete
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\obj\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.dll
+C:\Users\nlawson\Desktop\dev\AtlasCompanyTracker\AtlasCompanyTracker.Database\obj\Debug\netcoreapp2.1\AtlasCompanyTracker.Database.pdb
